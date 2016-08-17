@@ -28,4 +28,4 @@ Information about How to Use
 
 Information about Permissons:
 -----------------------------
-When you download executable file 
+When you download executable file you won't have permisson to execute it. You should change permissions to execute. To do so you can use "chmod 700 PATH" where PATH is path of file. (You can drag and drop file to terminal window instead of typing path)
