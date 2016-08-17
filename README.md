@@ -7,7 +7,9 @@ This tool makes directories for TV series on mac os. It creates a directoriy for
 
 How to use:
 -----------
-* Execute it from terminal.
+* Open terminal.
+* Set current directory as where executable file is. (See below for more information)
+* Execute it from terminal. (See below for more information)
 * Give relavent information when asked.
 * Tool first asks Series name than which season and finally how many episodes does that season has.
 * Your directories are created. (You will see a list of created directories full path)
@@ -18,6 +20,12 @@ How to install:
 * Set permissons of file. (See below for more information)
 * It is ready to use.
 
+Information about How to Use
+----------------------------
+* use "cd" command fallowed by path of executable file's diractory
+* if you put executable file to "/ " you can execute file right after opening terminal
+* To execute program use "./DirectoryCreator"
+
 Information about Permissons:
 -----------------------------
-
+When you download executable file 
