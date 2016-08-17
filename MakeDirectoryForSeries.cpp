@@ -1,3 +1,5 @@
+//Yigit Suoglu Aug 17, 2016
+
 #include <iostream>
 #include <string>
 #include <string.h>
