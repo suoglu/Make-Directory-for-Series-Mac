@@ -7,14 +7,17 @@ This tool makes directories for TV series on mac os. It creates a directoriy for
 
 How to use:
 -----------
-Execute it from terminal.
-Give relavent information when asked.
-Tool first asks Series name than which season and finally how many episodes does that season has.
-Your directories are created. (You will see a list of created directories full path)
+* Execute it from terminal.
+* Give relavent information when asked.
+* Tool first asks Series name than which season and finally how many episodes does that season has.
+* Your directories are created. (You will see a list of created directories full path)
 
 How to install:
-Download executable file.
-Set permissons of file. (See below for more information)
-It is ready to use.
+---------------
+* Download executable file.
+* Set permissons of file. (See below for more information)
+* It is ready to use.
 
 Information about Permissons:
+-----------------------------
+
