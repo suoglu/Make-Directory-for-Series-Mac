@@ -1,3 +1,7 @@
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/suoglu/Make-Directory-for-Series-Mac)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/suoglu/Make-Directory-for-Series-Mac)
+
 # Make-Directory-for-Series-Mac
 Simple tool to create directories for TV series on os x
 
@@ -32,4 +36,8 @@ When you download executable file you won't have permisson to execute it. You sh
 
 Additional Information:
 -----------------------
+
+![](https://img.shields.io/badge/platform-macOS-lightgrey)
+![](https://img.shields.io/badge/version-10.12.5-green)
+
 Tested on macOS Sierra, Version 10.12.5
